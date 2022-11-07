@@ -13,7 +13,6 @@
 		59DE46BD2916C9E800B95BA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59DE46BB2916C9E800B95BA1 /* Main.storyboard */; };
 		59DE46BF2916C9EA00B95BA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59DE46BE2916C9EA00B95BA1 /* Assets.xcassets */; };
 		59DE46C22916C9EA00B95BA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59DE46C02916C9EA00B95BA1 /* LaunchScreen.storyboard */; };
-		59DE46CA2916D93100B95BA1 /* MUSIC3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59DE46C92916D93100B95BA1 /* MUSIC3.mp3 */; };
 		59DE46CE2916D9B200B95BA1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59DE46CD2916D9B100B95BA1 /* AVFoundation.framework */; };
 		59DE46D02916D9B800B95BA1 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59DE46CF2916D9B700B95BA1 /* AVKit.framework */; };
 		59DE46D22916E1D700B95BA1 /* zelda.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59DE46D12916E1D700B95BA1 /* zelda.mp3 */; };
@@ -28,7 +27,6 @@
 		59DE46BE2916C9EA00B95BA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59DE46C12916C9EA00B95BA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59DE46C32916C9EA00B95BA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		59DE46C92916D93100B95BA1 /* MUSIC3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MUSIC3.mp3; sourceTree = "<group>"; };
 		59DE46CD2916D9B100B95BA1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		59DE46CF2916D9B700B95BA1 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 		59DE46D12916E1D700B95BA1 /* zelda.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zelda.mp3; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 		59DE46CB2916D93500B95BA1 /* audio files */ = {
 			isa = PBXGroup;
 			children = (
-				59DE46C92916D93100B95BA1 /* MUSIC3.mp3 */,
 				59DE46D12916E1D700B95BA1 /* zelda.mp3 */,
 			);
 			path = "audio files";
@@ -155,7 +152,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				59DE46CA2916D93100B95BA1 /* MUSIC3.mp3 in Resources */,
 				59DE46C22916C9EA00B95BA1 /* LaunchScreen.storyboard in Resources */,
 				59DE46BF2916C9EA00B95BA1 /* Assets.xcassets in Resources */,
 				59DE46D22916E1D700B95BA1 /* zelda.mp3 in Resources */,
